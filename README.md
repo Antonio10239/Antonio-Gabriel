@@ -17,6 +17,9 @@ I'm currently learning Java and expanding my knowledge through studying and pers
 ## Atualmente Aprendendo
 
 - **Java:** Estudando fundamentos da programação e desenvolvendo minhas habilidades.
+
+## Robótica e FTC
+
 - **FTC:** Participo da equipe #26956 IronHide como o programador da equipe na temporada 2026/27 BIO BUZZ e la consigo aprender e colocar certas habilidades em prática.
 
 ---
@@ -24,4 +27,6 @@ I'm currently learning Java and expanding my knowledge through studying and pers
 ## Currently Learning
 
 - **Java:** studying programming fundamentals and developing my skills.
+
+## Robotics ans FTC
 - **FTC:** I'm a programmer on the IronHide FTC #26956 team for the 2026/27 BIO BUZZ season, where I can apply my knowledge, develop my skills, and learn through hands-on experience.
