@@ -5,14 +5,12 @@
 Sou um estudante do SESI SENAI, interessado na área de desenvolvimento de sistemas, robótica e tecnologia.
 Atualmente, estou aprendendo a programar em Java e aprendendo mais sobre a área por meio de estudos e projetos pessoais.
 
----
-
 ## About me
 
 I'm a programming student at SESI SENAI, I'm interested in system development, robotics and technology.
 I'm currently learning Java and expanding my knowledge through studying and personal projects.
 
-
+---
 
 ## Atualmente Aprendendo
 
